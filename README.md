@@ -1,4 +1,4 @@
-# Proyecto de creacion de una IA en local
+# Proyecto de integración de una IA en local
 
 Voy a tratar de serguir los pasos de varios turoriales que encontré para añadir una IA a nuestros proyectos de forma local sin acceso a internet. Sera menos eficiente que las que encontramos pero vamos a ver hasta donde llegamos.
 

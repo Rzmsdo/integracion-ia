@@ -1,33 +1,3 @@
-# Proyecto de integración de una IA en local
-
-Voy a tratar de serguir los pasos de varios turoriales que encontré para añadir una IA a nuestros proyectos de forma local sin acceso a internet. Sera menos eficiente que las que encontramos pero vamos a ver hasta donde llegamos.
-
-Una vez finalizado comentaré resultado.
-
-Desarrollado con Python
-
-Inicio::
-
--Instalar ollma (codespace(linux))
-
-Visitar la web de Ollama -Download -Linux -->
-
-curl -fsSL https://ollama.com/install.sh | sh 
-
-
-
-Ver comandos: (en la terminal) ollama
-
-    Comandos:
- 
- Usage:
-  ollama [flags]
-  ollama [command]
-
-Available Commands:
-  serve       Start ollama
-  create      Create a model
-  show        Show information for a model
   # Proyecto: IA local con Ollama
 
   Este proyecto documenta los pasos básicos para instalar y ejecutar un modelo de lenguaje localmente usando Ollama en un entorno Linux (por ejemplo, GitHub Codespaces). El objetivo es poder usar un LLM sin dependencia de Internet.

@@ -1,0 +1,23 @@
+# ==================== Core Framework ====================
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# ==================== AI & Machine Learning ====================
+ollama
+
+# ==================== Database & Storage ====================
+supabase
+
+# ==================== File Processing ====================
+PyPDF2
+python-docx
+python-multipart
+
+# ==================== Security & Authentication ====================
+python-jose[cryptography]
+passlib[bcrypt]
+
+# ==================== Utilities ====================
+python-dotenv

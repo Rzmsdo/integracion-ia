@@ -142,7 +142,7 @@
   - Si la salida del comando incluye metadatos o formato adicional, adapta el parsing según sea necesario.
   - Para integraciones más robustas o de producción, si Ollama expone una API HTTP (por ejemplo al ejecutar `ollama serve`), es más recomendable usar peticiones HTTP en lugar de invocar la CLI.
 
-  Si quieres, puedo añadir un script runnable en el repositorio (por ejemplo `examples/run_ollama_cli.py`) y pequeños tests que validen la presencia de `ollama` y un modelo instalado.
+
 
   Licencia y Créditos
 
